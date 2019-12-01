@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f8ac98a23ae429c1f2dc8b09ba065f5d.js"
+  "/precache-manifest.8a8bf5d73e5aebd14097f7965d1e0c64.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "healthstack-frontend"});
